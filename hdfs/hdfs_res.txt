@@ -1,0 +1,193 @@
+
+
+================================================================================
+4 MB
+14/07/22 16:44:15 INFO fs.TestDFSIO: ----- TestDFSIO ----- : write
+14/07/22 16:44:15 INFO fs.TestDFSIO:            Date & time: Tue Jul 22 16:44:15 UTC 2014
+14/07/22 16:44:15 INFO fs.TestDFSIO:        Number of files: 1
+14/07/22 16:44:15 INFO fs.TestDFSIO: Total MBytes processed: 4.0
+14/07/22 16:44:15 INFO fs.TestDFSIO:      Throughput mb/sec: 28.985507246376812
+14/07/22 16:44:15 INFO fs.TestDFSIO: Average IO rate mb/sec: 28.98550796508789
+14/07/22 16:44:15 INFO fs.TestDFSIO:  IO rate std deviation: 0.00200634582015339
+14/07/22 16:44:15 INFO fs.TestDFSIO:     Test exec time sec: 2.367
+14/07/22 16:44:15 INFO fs.TestDFSIO: 
+
+
+14/07/22 16:45:26 INFO fs.TestDFSIO: ----- TestDFSIO ----- : read
+14/07/22 16:45:26 INFO fs.TestDFSIO:            Date & time: Tue Jul 22 16:45:26 UTC 2014
+14/07/22 16:45:26 INFO fs.TestDFSIO:        Number of files: 1
+14/07/22 16:45:26 INFO fs.TestDFSIO: Total MBytes processed: 4.0
+14/07/22 16:45:26 INFO fs.TestDFSIO:      Throughput mb/sec: 250.0
+14/07/22 16:45:26 INFO fs.TestDFSIO: Average IO rate mb/sec: 250.0
+14/07/22 16:45:26 INFO fs.TestDFSIO:  IO rate std deviation: 0.0
+14/07/22 16:45:26 INFO fs.TestDFSIO:     Test exec time sec: 2.381
+14/07/22 16:45:26 INFO fs.TestDFSIO: 
+
+================================================================================
+2 MB
+14/07/22 16:38:33 INFO fs.TestDFSIO: ----- TestDFSIO ----- : write
+14/07/22 16:38:33 INFO fs.TestDFSIO:            Date & time: Tue Jul 22 16:38:33 UTC 2014
+14/07/22 16:38:33 INFO fs.TestDFSIO:        Number of files: 1
+14/07/22 16:38:33 INFO fs.TestDFSIO: Total MBytes processed: 2.0
+14/07/22 16:38:33 INFO fs.TestDFSIO:      Throughput mb/sec: 36.36363636363637
+14/07/22 16:38:33 INFO fs.TestDFSIO: Average IO rate mb/sec: 36.3636360168457
+14/07/22 16:38:33 INFO fs.TestDFSIO:  IO rate std deviation: 0.007715042970294262
+14/07/22 16:38:33 INFO fs.TestDFSIO:     Test exec time sec: 2.336
+14/07/22 16:38:33 INFO fs.TestDFSIO: 
+
+
+14/07/22 16:39:14 INFO fs.TestDFSIO: ----- TestDFSIO ----- : read
+14/07/22 16:39:14 INFO fs.TestDFSIO:            Date & time: Tue Jul 22 16:39:14 UTC 2014
+14/07/22 16:39:14 INFO fs.TestDFSIO:        Number of files: 1
+14/07/22 16:39:14 INFO fs.TestDFSIO: Total MBytes processed: 2.0
+14/07/22 16:39:14 INFO fs.TestDFSIO:      Throughput mb/sec: 200.0
+14/07/22 16:39:14 INFO fs.TestDFSIO: Average IO rate mb/sec: 200.0
+14/07/22 16:39:14 INFO fs.TestDFSIO:  IO rate std deviation: 0.0
+14/07/22 16:39:14 INFO fs.TestDFSIO:     Test exec time sec: 2.366
+14/07/22 16:39:14 INFO fs.TestDFSIO: 
+
+================================================================================
+1 Mb
+
+14/07/22 16:25:40 INFO fs.TestDFSIO: ----- TestDFSIO ----- : write
+14/07/22 16:25:40 INFO fs.TestDFSIO:            Date & time: Tue Jul 22 16:25:40 UTC 2014
+14/07/22 16:25:40 INFO fs.TestDFSIO:        Number of files: 1
+14/07/22 16:25:40 INFO fs.TestDFSIO: Total MBytes processed: 1.0
+14/07/22 16:25:40 INFO fs.TestDFSIO:      Throughput mb/sec: 21.27659574468085
+14/07/22 16:25:40 INFO fs.TestDFSIO: Average IO rate mb/sec: 21.276596069335938
+14/07/22 16:25:40 INFO fs.TestDFSIO:  IO rate std deviation: 0.0014774258980588596
+14/07/22 16:25:40 INFO fs.TestDFSIO:     Test exec time sec: 2.365
+14/07/22 16:25:40 INFO fs.TestDFSIO: 
+
+
+14/07/22 16:37:40 INFO fs.TestDFSIO: ----- TestDFSIO ----- : read
+14/07/22 16:37:40 INFO fs.TestDFSIO:            Date & time: Tue Jul 22 16:37:40 UTC 2014
+14/07/22 16:37:40 INFO fs.TestDFSIO:        Number of files: 1
+14/07/22 16:37:40 INFO fs.TestDFSIO: Total MBytes processed: 0.0625
+14/07/22 16:37:40 INFO fs.TestDFSIO:      Throughput mb/sec: 7.8125
+14/07/22 16:37:40 INFO fs.TestDFSIO: Average IO rate mb/sec: 7.8125
+14/07/22 16:37:40 INFO fs.TestDFSIO:  IO rate std deviation: 0.0
+14/07/22 16:37:40 INFO fs.TestDFSIO:     Test exec time sec: 2.291
+14/07/22 16:37:40 INFO fs.TestDFSIO: 
+
+================================================================================
+512 KB
+
+14/07/22 16:28:38 INFO fs.TestDFSIO: ----- TestDFSIO ----- : write
+14/07/22 16:28:38 INFO fs.TestDFSIO:            Date & time: Tue Jul 22 16:28:38 UTC 2014
+14/07/22 16:28:38 INFO fs.TestDFSIO:        Number of files: 1
+14/07/22 16:28:38 INFO fs.TestDFSIO: Total MBytes processed: 0.5
+14/07/22 16:28:38 INFO fs.TestDFSIO:      Throughput mb/sec: 11.904761904761905
+14/07/22 16:28:38 INFO fs.TestDFSIO: Average IO rate mb/sec: 11.904762268066406
+14/07/22 16:28:38 INFO fs.TestDFSIO:  IO rate std deviation: 0.002550466767096314
+14/07/22 16:28:38 INFO fs.TestDFSIO:     Test exec time sec: 2.31
+14/07/22 16:28:38 INFO fs.TestDFSIO: 
+
+
+14/07/22 16:36:42 INFO fs.TestDFSIO: ----- TestDFSIO ----- : read
+14/07/22 16:36:42 INFO fs.TestDFSIO:            Date & time: Tue Jul 22 16:36:42 UTC 2014
+14/07/22 16:36:42 INFO fs.TestDFSIO:        Number of files: 1
+14/07/22 16:36:42 INFO fs.TestDFSIO: Total MBytes processed: 0.0625
+14/07/22 16:36:42 INFO fs.TestDFSIO:      Throughput mb/sec: 10.416666666666666
+14/07/22 16:36:42 INFO fs.TestDFSIO: Average IO rate mb/sec: 10.416666984558105
+14/07/22 16:36:42 INFO fs.TestDFSIO:  IO rate std deviation: 8.299186015062847E-4
+14/07/22 16:36:42 INFO fs.TestDFSIO:     Test exec time sec: 2.337
+14/07/22 16:36:42 INFO fs.TestDFSIO: 
+
+================================================================================
+256 KB
+
+14/07/22 16:29:36 INFO fs.TestDFSIO: ----- TestDFSIO ----- : write
+14/07/22 16:29:36 INFO fs.TestDFSIO:            Date & time: Tue Jul 22 16:29:36 UTC 2014
+14/07/22 16:29:36 INFO fs.TestDFSIO:        Number of files: 1
+14/07/22 16:29:36 INFO fs.TestDFSIO: Total MBytes processed: 0.25
+14/07/22 16:29:36 INFO fs.TestDFSIO:      Throughput mb/sec: 5.9523809523809526
+14/07/22 16:29:36 INFO fs.TestDFSIO: Average IO rate mb/sec: 5.952381134033203
+14/07/22 16:29:36 INFO fs.TestDFSIO:  IO rate std deviation: 0.001275233383548157
+14/07/22 16:29:36 INFO fs.TestDFSIO:     Test exec time sec: 2.362
+14/07/22 16:29:36 INFO fs.TestDFSIO: 
+
+
+14/07/22 16:35:47 INFO fs.TestDFSIO: ----- TestDFSIO ----- : read
+14/07/22 16:35:47 INFO fs.TestDFSIO:            Date & time: Tue Jul 22 16:35:47 UTC 2014
+14/07/22 16:35:47 INFO fs.TestDFSIO:        Number of files: 1
+14/07/22 16:35:47 INFO fs.TestDFSIO: Total MBytes processed: 0.0625
+14/07/22 16:35:47 INFO fs.TestDFSIO:      Throughput mb/sec: 12.5
+14/07/22 16:35:47 INFO fs.TestDFSIO: Average IO rate mb/sec: 12.5
+14/07/22 16:35:47 INFO fs.TestDFSIO:  IO rate std deviation: 0.0
+14/07/22 16:35:47 INFO fs.TestDFSIO:     Test exec time sec: 2.283
+14/07/22 16:35:47 INFO fs.TestDFSIO: 
+
+================================================================================
+128 KB
+
+
+14/07/22 16:31:14 INFO fs.TestDFSIO: ----- TestDFSIO ----- : write
+14/07/22 16:31:14 INFO fs.TestDFSIO:            Date & time: Tue Jul 22 16:31:14 UTC 2014
+14/07/22 16:31:14 INFO fs.TestDFSIO:        Number of files: 1
+14/07/22 16:31:14 INFO fs.TestDFSIO: Total MBytes processed: 0.125
+14/07/22 16:31:14 INFO fs.TestDFSIO:      Throughput mb/sec: 3.289473684210526
+14/07/22 16:31:14 INFO fs.TestDFSIO: Average IO rate mb/sec: 3.28947377204895
+14/07/22 16:31:14 INFO fs.TestDFSIO:  IO rate std deviation: 7.709698943550333E-5
+14/07/22 16:31:14 INFO fs.TestDFSIO:     Test exec time sec: 2.33
+14/07/22 16:31:14 INFO fs.TestDFSIO: 
+
+
+14/07/22 16:34:24 INFO fs.TestDFSIO: ----- TestDFSIO ----- : read
+14/07/22 16:34:24 INFO fs.TestDFSIO:            Date & time: Tue Jul 22 16:34:24 UTC 2014
+14/07/22 16:34:24 INFO fs.TestDFSIO:        Number of files: 1
+14/07/22 16:34:24 INFO fs.TestDFSIO: Total MBytes processed: 0.0625
+14/07/22 16:34:24 INFO fs.TestDFSIO:      Throughput mb/sec: 10.416666666666666
+14/07/22 16:34:24 INFO fs.TestDFSIO: Average IO rate mb/sec: 10.416666984558105
+14/07/22 16:34:24 INFO fs.TestDFSIO:  IO rate std deviation: 8.299186015062847E-4
+14/07/22 16:34:24 INFO fs.TestDFSIO:     Test exec time sec: 2.339
+14/07/22 16:34:24 INFO fs.TestDFSIO: 
+
+================================================================================
+64 KB
+
+14/07/22 16:32:19 INFO fs.TestDFSIO: ----- TestDFSIO ----- : write
+14/07/22 16:32:19 INFO fs.TestDFSIO:            Date & time: Tue Jul 22 16:32:19 UTC 2014
+14/07/22 16:32:19 INFO fs.TestDFSIO:        Number of files: 1
+14/07/22 16:32:19 INFO fs.TestDFSIO: Total MBytes processed: 0.0625
+14/07/22 16:32:19 INFO fs.TestDFSIO:      Throughput mb/sec: 2.717391304347826
+14/07/22 16:32:19 INFO fs.TestDFSIO: Average IO rate mb/sec: 2.7173912525177
+14/07/22 16:32:19 INFO fs.TestDFSIO:  IO rate std deviation: 3.6832012994904344E-4
+14/07/22 16:32:19 INFO fs.TestDFSIO:     Test exec time sec: 2.336
+14/07/22 16:32:19 INFO fs.TestDFSIO: 
+
+
+14/07/22 16:33:25 INFO fs.TestDFSIO: ----- TestDFSIO ----- : read
+14/07/22 16:33:25 INFO fs.TestDFSIO:            Date & time: Tue Jul 22 16:33:25 UTC 2014
+14/07/22 16:33:25 INFO fs.TestDFSIO:        Number of files: 1
+14/07/22 16:33:25 INFO fs.TestDFSIO: Total MBytes processed: 0.0625
+14/07/22 16:33:25 INFO fs.TestDFSIO:      Throughput mb/sec: 10.416666666666666
+14/07/22 16:33:25 INFO fs.TestDFSIO: Average IO rate mb/sec: 10.416666984558105
+14/07/22 16:33:25 INFO fs.TestDFSIO:  IO rate std deviation: 8.299186015062847E-4
+14/07/22 16:33:25 INFO fs.TestDFSIO:     Test exec time sec: 2.192
+14/07/22 16:33:25 INFO fs.TestDFSIO: 
+
+
+================================================================================
+32 KB
+
+14/07/22 16:46:39 INFO fs.TestDFSIO: ----- TestDFSIO ----- : write
+14/07/22 16:46:39 INFO fs.TestDFSIO:            Date & time: Tue Jul 22 16:46:39 UTC 2014
+14/07/22 16:46:39 INFO fs.TestDFSIO:        Number of files: 1
+14/07/22 16:46:39 INFO fs.TestDFSIO: Total MBytes processed: 0.03125
+14/07/22 16:46:39 INFO fs.TestDFSIO:      Throughput mb/sec: 1.5625
+14/07/22 16:46:39 INFO fs.TestDFSIO: Average IO rate mb/sec: 1.5625
+14/07/22 16:46:39 INFO fs.TestDFSIO:  IO rate std deviation: 0.0
+14/07/22 16:46:39 INFO fs.TestDFSIO:     Test exec time sec: 2.302
+14/07/22 16:46:39 INFO fs.TestDFSIO: 
+
+
+14/07/22 16:47:35 INFO fs.TestDFSIO: ----- TestDFSIO ----- : read
+14/07/22 16:47:35 INFO fs.TestDFSIO:            Date & time: Tue Jul 22 16:47:35 UTC 2014
+14/07/22 16:47:35 INFO fs.TestDFSIO:        Number of files: 1
+14/07/22 16:47:35 INFO fs.TestDFSIO: Total MBytes processed: 0.03125
+14/07/22 16:47:35 INFO fs.TestDFSIO:      Throughput mb/sec: 5.208333333333333
+14/07/22 16:47:35 INFO fs.TestDFSIO: Average IO rate mb/sec: 5.208333492279053
+14/07/22 16:47:35 INFO fs.TestDFSIO:  IO rate std deviation: 4.1495930075314234E-4
+14/07/22 16:47:35 INFO fs.TestDFSIO:     Test exec time sec: 2.307
+14/07/22 16:47:35 INFO fs.TestDFSIO: 

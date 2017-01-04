@@ -1,0 +1,145 @@
+data size 256 byets
+
+elap time 171.012336016
+elap time per write 0.00260944116235
+elap time per wrtier in 1kb 0.0104377646494
+
+lets do read
+
+elap time 192.049412012
+elap time per read 0.00293044146747
+elap time per read in 1kb 0.0117217658699
+
+data size  1 KB
+
+total numbers of write 1048576
+elap time 2483.29381609
+elap time per write 0.0023682535325
+elap time per wrtier in 1kb 0.0023682535325
+
+lets do read
+
+total numbers of read 1048576
+elap time 3383.19009805
+elap time per read 0.00322646150403
+elap time per read in 1kb 0.00322646150403
+
+data size  2 KB
+
+total numbers of write 524288
+elap time 1262.41989493
+elap time per write 0.00240787486064
+elap time per wrtier in 1kb 0.00120393743032
+
+lets do read
+
+total numbers of read 524288
+elap time 1682.81116009
+elap time per read 0.00320970756547
+elap time per read in 1kb 0.00160485378274
+
+data size  4 KB
+
+total numbers of write 262144
+elap time 16780.7875824
+elap time per write 0.0640136245056
+elap time per wrtier in 1kb 0.0160034061264
+
+lets do read
+
+total numbers of read 262144
+elap time 861.595657349
+elap time per read 0.00328672659816
+elap time per read in 1kb 0.000821681649541
+
+data size  8 KB
+
+total numbers of write 131072
+elap time 8384.13874817
+elap time per write 0.0639659023145
+elap time per wrtier in 1kb 0.00799573778932
+
+lets do read
+
+total numbers of read 131072
+elap time 438.697021484
+elap time per read 0.00334699265659
+elap time per read in 1kb 0.000418374082074
+
+data size  16 KB
+
+total numbers of write 65536
+elap time 236.486663818
+elap time per write 0.0036085001193
+elap time per wrtier in 1kb 0.000225531257456
+
+lets do read
+
+total numbers of read 65536
+elap time 223.330627441
+elap time per read 0.00340775493532
+elap time per read in 1kb 0.000212984683458
+
+data size  32 KB
+
+total numbers of write 32768
+elap time 116.777084351
+elap time per write 0.00356375379488
+elap time per wrtier in 1kb 0.00011136730609
+
+lets do read
+
+total numbers of read 32768
+elap time 121.745147705
+elap time per read 0.00371536705643
+elap time per read in 1kb 0.000116105220513
+
+data size  64 KB
+
+total numbers of write 16384
+elap time 89.0241851807
+elap time per write 0.00543360505253
+elap time per wrtier in 1kb 8.49000789458e-05
+
+lets do read
+
+total numbers of read 16384
+elap time 66.6684112549
+elap time per read 0.00406911689788
+elap time per read in 1kb 6.35799515294e-05
+
+data size  128 KB
+
+total numbers of write 8192
+elap time 74.3384399414
+elap time per write 0.00907451659441
+elap time per wrtier in 1kb 7.08946608938e-05
+
+lets do read
+
+total numbers of read 8192
+elap time 43.2700042725
+elap time per read 0.00528198294342
+elap time per read in 1kb 4.12654917454e-05
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
